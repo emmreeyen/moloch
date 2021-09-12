@@ -5,7 +5,7 @@
   "main": "viewer.js",
   "dependencies": {
     "async": "",
-    "elasticsearch": "~2.4.0",
+    "elasticsearch": "~4.0.0",
     "express": "~3.5.2",
     "fs-ext": "~0.3.2",
     "jade": "~1.3.1",
