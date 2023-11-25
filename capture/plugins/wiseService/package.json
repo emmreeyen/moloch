@@ -12,7 +12,7 @@
     , "unzip": "~0.1.11"
     , "csv": "~0.4.1"
     , "console-stamp": "~0.1.3"
-    , "request": "~2.54.0"
+    , "request": "~2.80.0"
     , "iptrie": "~0.0.6"
     , "native-dns": "~0.7.0"
     , "hashtable": "~0.5.3"
